@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'BlinkingLabel'
   s.version          = '0.1.0'
-  s.swift_version    = '3.2'
+  s.swift_version    = '4.2'
   s.summary          = 'A subclass on UILabel that provides a blink.'
 
 # This description is used to generate tags and improve search results.
