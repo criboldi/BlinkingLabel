@@ -22,7 +22,7 @@ pod 'BlinkingLabel'
 
 ## Author
 
-criboldi, christian.m.riboldi@exxonmobil.com
+criboldi, christian.m.riboldi@hotmail.com
 
 ## License
 
