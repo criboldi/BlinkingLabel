@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BlinkingLabel: da72980f1c075a5880986d02cc47bf623084a5af
+  BlinkingLabel: fde5aa18a9691f5cf119bb8c082d67a1b53c7e7f
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
 PODFILE CHECKSUM: 11c13ae09e1a291b1481b4e7b726cef03c4052ba
